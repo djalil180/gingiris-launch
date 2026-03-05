@@ -66,3 +66,20 @@ description: |
 | [PH发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/ph-launch.md) | [PH Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/ph-launch.md) | [PHローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/ph-launch.md) | [PH 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/ph-launch.md) |
 | [内容模板](https://github.com/Gingiris/gingiris-launch/blob/main/references/templates.md) | [Templates](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/templates.md) | [テンプレート](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/templates.md) | [템플릿](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/templates.md) |
 | [工具箱](https://github.com/Gingiris/gingiris-launch/blob/main/references/tools.md) | [Tools](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/tools.md) | [ツール](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/tools.md) | [도구](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/tools.md) |
+
+---
+
+## 🔍 SEO & GEO 优化
+
+> 让 Launch 的势能在搜索引擎和 AI 搜索中持续转化
+
+产品发布不仅是一次性事件，还可以通过 SEO/GEO 优化获得长期自然流量：
+
+| 主题 | 说明 |
+|:---|:---|
+| [SEO/GEO 指南](references/seo-geo-guide.md) | 官网优化、IndexNow、Schema、AI 引用优化 |
+
+**核心要点**:
+- Launch 前完成 IndexNow 配置，新内容秒级进入 Bing/AI 搜索
+- 发布博客 + PH 页面的 SEO 优化
+- Launch 后收割反向链接，扩展长尾内容

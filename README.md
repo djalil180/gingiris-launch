@@ -1,73 +1,58 @@
-# 🚀 AI产品全球发布行动指南
+# 🚀 AI 产品全球发布行动指南
 
-> **OpenClaw Skill** | 作者：Iris (生姜iris) | 版本：Final v7.0 (2026年2月)
+> **OpenClaw Skill** | 版本：Final v7.0
 
-基于 **Manus** (2025年3月) 和 **Devin** (2024年3月) 两个现象级 AI 产品发布的深度复盘，提供完整的 **Product Launch** 和 **Product Hunt** 发布 SOP。
+基于 Manus、Devin 等现象级产品的实战复盘，包含完整的 Product Launch 和 Product Hunt 发布 SOP。
+
+## 🌍 多语言支持
+
+| 语言 | 入口 |
+|:---|:---|
+| 🇨🇳 中文 | [SKILL.md](SKILL.md) |
+| 🇺🇸 English | [references/en/README.md](references/en/README.md) |
+| 🇯🇵 日本語 | [references/ja/README.md](references/ja/README.md) |
+| 🇰🇷 한국어 | [references/ko/README.md](references/ko/README.md) |
 
 ## ✨ 特性
 
-- 🎯 **四大支柱**：产品力、情绪叙事、影响者飞轮、平台接力赛
-- 📋 **完整SOP**：从 L-6周 到发布日的每一步
-- 📊 **案例复盘**：Manus 2-3亿曝光的传播链条全解析
-- 💰 **预算模板**：$10k 精简版 / $50k 标准版
-- 📝 **渠道模板**：Twitter、Reddit、Discord、DM 等全套文案
-- 🛠️ **工具箱**：40+ 实战工具推荐
+- 🎯 **案例复盘**：Manus、Devin 等现象级产品的完整时间线分析
+- 📈 **病毒传播四大支柱**：产品力、情绪叙事、KOL飞轮、平台接力
+- 🤝 **KOL策略**：Newsletter创始人价值最高，附完整联系方式
+- 📝 **UGC引擎**：Wispr Flow 模式（10策略师+70执行者）
+- 🎯 **PH打榜**：24小时作战计划 + 投票策略
+- 📊 **预算模板**：$15K-$50K 不同规模方案
 
 ## 📦 安装
 
-### 方法一：直接复制（推荐）
-
 ```bash
-mkdir -p ~/.openclaw/skills
-git clone https://github.com/YOUR_USERNAME/gingiris-launch.git ~/.openclaw/skills/gingiris-launch
+git clone https://github.com/Gingiris/gingiris-launch.git ~/.openclaw/skills/gingiris-launch
 ```
-
-### 方法二：下载 .skill 文件
-
-下载 `gingiris-launch.skill` 后解压到 `~/.openclaw/skills/`
 
 ## 🎯 触发场景
 
-当你和 Agent 说这些话时，会自动触发这个 Skill：
-
 - "准备产品发布" / "plan a product launch"
 - "Product Hunt 上线" / "PH launch"
-- "Launch Week 规划"
 - "KOL 合作" / "influencer outreach"
-- "UGC 增长" / "creator marketing"
-- "Reddit 运营"
-- "开源项目推广" / "open source marketing"
-- "出海运营" / "go global"
+- "UGC 増长" / "creator marketing"
+- "Reddit 运营" / "Reddit marketing"
 
 ## 📚 内容结构
 
 ```
 gingiris-launch/
-├── SKILL.md                    # 核心入口 + 导航
-└── references/
-    ├── strategy.md             # 四大支柱 + 案例复盘
-    ├── preparation.md          # 准备阶段 SOP (L-6周至L-1周)
-    ├── product-launch.md       # Launch Week 详细计划
-    ├── ph-launch.md            # Product Hunt 24小时作战
-    ├── templates.md            # 渠道内容模板
-    ├── tools.md                # 工具箱
-    └── budget.md               # 预算分配
+├── SKILL.md                      # 核心入口
+├── references/
+│   ├── strategy.md               # 核心策略（中文）
+│   ├── preparation.md            # 准备阶段
+│   ├── product-launch.md         # Launch Week
+│   ├── ph-launch.md              # PH 发布
+│   ├── templates.md              # 内容模板
+│   ├── tools.md                  # 工具箱
+│   ├── budget.md                 # 预算分配
+│   ├── en/                       # English
+│   ├── ja/                       # 日本語
+│   └── ko/                       # 한국어
 ```
-
-## 🔑 核心原则
-
-1. **用户至上，始于价值** — 所有策略以为用户创造真实价值为出发点
-2. **内容为王，渠道为后** — 高质量内容是传播的根本
-3. **全球化思维，本土化执行** — 保持全球一致品牌形象，针对不同市场本土化调整
-4. **只要活人，不要僵尸** — 预算集中投入极少数有价值的关键节点
-
-## 📖 关于作者
-
-**Iris (生姜iris)** — AFFiNE 前 cofounder & COO
-
-- GitHub 7天6000 star，1年半 33k star
-- Product Hunt 日榜第一×30，周榜第一×3，月榜第一×1
-- 覆盖数百个国家和地区的用户
 
 ## 📄 License
 

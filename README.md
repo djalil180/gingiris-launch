@@ -92,8 +92,9 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
 
 - 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 💼 LinkedIn: [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/)
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📧 Consulting available
+- 📧 Email: iris103195@gmail.com
 
 ---
 

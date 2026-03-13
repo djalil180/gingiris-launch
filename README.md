@@ -7,7 +7,12 @@
 ### Battle-tested strategies for global AI product launches — Product Hunt, KOL outreach, UGC growth, Reddit marketing
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/watchers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-launch/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/Gingiris/gingiris-launch?color=blue)](https://github.com/Gingiris/gingiris-launch/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Gingiris/gingiris-launch?color=orange)](https://github.com/Gingiris/gingiris-launch/graphs/contributors)
 
 **[English](#english) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
 
